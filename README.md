@@ -23,6 +23,14 @@
 
 </br>
 
+### 💻 Projetos:
+<a href="https://www.vercel.com/ttaisantoss"><img align="left" alt="Vercel" width="100px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</br>
+</br>
+
 ### 📱 Contatos:
 <a href="mailto:taina.santhos@gmal.com?subject=Ol%C3%A1%20Taína%20Santos"><img align="left" alt="Gmail" width="85px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/taina-santos-de-lima/"><img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
