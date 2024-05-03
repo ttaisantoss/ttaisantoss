@@ -1,36 +1,30 @@
 
-
-<h1 align="left">Taína Santos</h1>
- 
-<img align="right" width="250px" src="https://cdn.discordapp.com/attachments/1198019155257987203/1198026637032312832/octocat-1705465019114.png?ex=65bd6840&is=65aaf340&hm=24d0ef62634333d0b52ecb54313afd86a1fa2ff37c0881c8497af73df84390bc& ">
-
-### 👽 Sobre mim
+# Taína Santos
 
 - 🎁 25 anos; 
 - 📍 Salto, SP; 
 - 💻 Estudante de Análise e desenvolvimento de sistemas;
 - ☕📚🎮 Viciada em café, apaixonada por livros e amante dos games. 
 
-</br>
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taina-santos-de-lima/)
+[![Discord](https://img.shields.io/badge/Discord-ec63a1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ttaisantoss/)
+[![Gmail](https://img.shields.io/badge/Gmail-ec63a1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taina.santhos@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-ec63a1?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:taina_santhos@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ttaisantoss)
+[![Vercel](https://img.shields.io/badge/Vercel-ec63a1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vercel.com/ttaisantoss)
 
-### 🖥️ Tecnologias e Ferramentas: 
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-ec63a1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ec63a1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ec63a1?style=for-the-badge&logo=javascript&logoColor=white)
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+## Ferramentas
+![Vscode](https://img.shields.io/badge/Vscode-ec63a1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ec63a1?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-ec63a1?style=for-the-badge&logo=git&logoColor=white)
 
-</br>
-
-### 💻 Projetos:
-<a href="https://www.vercel.com/ttaisantoss"><img align="left" alt="Vercel" width="100px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</br>
-</br>
-
-### 📱 Contatos:
-<a href="mailto:taina.santhos@gmal.com?subject=Ol%C3%A1%20Taína%20Santos"><img align="left" alt="Gmail" width="85px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<a href="https://www.linkedin.com/in/taina-santos-de-lima/"><img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ttaisantoss&theme=transparent&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF)
 
 
