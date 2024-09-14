@@ -1,7 +1,7 @@
 
 # Taína Santos
 
-- 🎁 25 anos; 
+- 🎁 26 anos; 
 - 📍 Salto, SP; 
 - 💻 Estudante de Análise e desenvolvimento de sistemas;
 - ☕📚🎮 Viciada em café, apaixonada por livros e amante dos games. 
