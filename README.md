@@ -24,7 +24,6 @@
 ![Figma](https://img.shields.io/badge/Figma-ec63a1?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-ec63a1?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ttaisantoss&theme=transparent&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF)
+
 
 
